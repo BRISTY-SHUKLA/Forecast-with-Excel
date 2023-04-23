@@ -1,5 +1,6 @@
 # Forecast-with-Excel
 In this video , you can learn everything step by step .
+# 3 different types way of forecast
 #
 # SOURCE PROJECT LINK :
 https://www.youtube.com/watch?v=ZAcdjEjrkNI&t=251s
